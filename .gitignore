@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.agents/
+.superpowers/
+*.local
+*.tsbuildinfo
+.env*
+!.env.example

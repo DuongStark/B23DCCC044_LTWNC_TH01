@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "sample-web",
+      "subject": "Lập trình Web nâng cao",
+      "title": "Bài thực hành 01 — Student Deadline Tracker",
+      "dueDate": "2026-10-16",
+      "priority": "high",
+      "completed": false
+    },
+    {
+      "id": "sample-database",
+      "subject": "Cơ sở dữ liệu",
+      "title": "Thiết kế mô hình ERD cho hệ thống thư viện",
+      "dueDate": "2026-10-13",
+      "priority": "high",
+      "completed": false
+    },
+    {
+      "id": "sample-network",
+      "subject": "Mạng máy tính",
+      "title": "Báo cáo phân tích giao thức TCP/IP",
+      "dueDate": "2026-10-11",
+      "priority": "medium",
+      "completed": false
+    },
+    {
+      "id": "sample-algorithm",
+      "subject": "Cấu trúc dữ liệu và giải thuật",
+      "title": "Cài đặt cây nhị phân tìm kiếm",
+      "dueDate": "2026-10-19",
+      "priority": "medium",
+      "completed": false
+    },
+    {
+      "id": "sample-english",
+      "subject": "Tiếng Anh chuyên ngành",
+      "title": "Đọc hiểu: Software Development Lifecycle",
+      "dueDate": "2026-10-23",
+      "priority": "low",
+      "completed": false
+    },
+    {
+      "id": "sample-os",
+      "subject": "Hệ điều hành",
+      "title": "Bài tập lập lịch CPU",
+      "dueDate": "2026-10-10",
+      "priority": "medium",
+      "completed": true
+    }
+  ]
+}
